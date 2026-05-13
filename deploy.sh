@@ -4,7 +4,7 @@
 
 set -e
 
-REPO_URL="https://github.com/YOUR_USERNAME/flask-deployment-using-aws.git"
+REPO_URL="https://github.com/rashmitnamdev/flask-deployment-using-aws.git"
 APP_DIR="/home/ubuntu/flask-deployment-using-aws"
 SERVICE_NAME="flaskapp"
 
